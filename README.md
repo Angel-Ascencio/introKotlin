@@ -1,6 +1,7 @@
-#Introduccion a kotlin
+# Introduccion a kotlin
 
-Practicas de kotlin elaboradas en clase para aprender el lenguaje.
+## Practicas de kotlin elaboradas en clase para aprender el lenguaje de kotlin.
+
 Las practicas incluyen:
 * Dos menus.
 * Apliciación de cine para costo de boletos y descuentos.
